@@ -40,6 +40,8 @@ ctrl-Shift-C	   :git commit
 ctrl-Shift-A c	:git add , commit まで行う  
 ctrl-Shift-A a	:全てのファイルを git add と commit する  
 
+https://atom.io/packages/git-plus  
+
 ## プラグイン　Browser Plus
 open(開く)     :ctrl-alt-o	:git-controlと競合しているkeybind  
 close(閉じる)  :ctrl+w (atomの閉じるコマンド)  
